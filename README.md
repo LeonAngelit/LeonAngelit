@@ -37,13 +37,13 @@ Last years I have been working in other sectors and I have verified that what fu
 
 ## 👨‍🌾 Hobbies
 
-<li>📚 Continuous learning</li>
+<h3><li>📚 Continuous learning</li>
 <li>🎹 Music</li>
 <li>🏋️‍♂️Wellness, nutrition and exercise🍉</li>
 <li>🖥️Blockchain tech🧬</li>
 <li>🏯Oriental culture</li>
-
-<b>And of course... ANIME!!</b>
+<br>
+<b>And of course... ANIME!!</b></h3>
 
 <p align="center">
 <img height="250" style="margin:0 auto" src="https://media0.giphy.com/media/YbHnru6KfNiUGeNeCf/giphy.gif?cid=ecf05e47zs5gfx077sdi2ztd1md0hqtv6q7iw1b9e5brv0i5&rid=giphy.gif&ct=g">
