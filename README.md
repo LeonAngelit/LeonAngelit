@@ -69,4 +69,4 @@ Last years I have been working in other sectors and I have verified that what fu
  [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.agleondev.com/)
 </p>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonAngelit.LeonAngelit&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonAngelit.LeonAngelit&left_color=blue&right_color=black)
