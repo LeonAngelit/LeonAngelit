@@ -57,10 +57,6 @@ Last years I have been working in other sectors and I have verified that what fu
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAngelit&theme=tokyonight)
-
-
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonAngelit.LeonAngelit&left_color=green&right_color=red)
  
 
 ## Connect with me:
@@ -70,5 +66,7 @@ Last years I have been working in other sectors and I have verified that what fu
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/AGLeon29) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jcnfksnxkckfn/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/leonangelitg/)
- [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/LeonAngelit)
+ [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.agleondev.com/)
 </p>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonAngelit.LeonAngelit&left_color=green&right_color=red)
