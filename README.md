@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonAngelit)](https://github.com/anuraghazra/github-readme-stats)
+
+
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonAngelit.LeonAngelit&left_color=green&right_color=red)
