@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I´m [Leon Angelit](http://www.agleondev.com).
+
+Computing and new technologies have been my passion since I was a child, to which I have dedicated much of my life as a hobby, and now I have decided to take the step to dedicate myself to it professionally. 
+
+Last years I have been working in other sectors and I have verified that what fulfills me and makes me feel good is programming and software development.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonAngelit)](https://github.com/anuraghazra/github-readme-stats)
 
