@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 😄 About me
+
 I´m [Leon Angelit](http://www.agleondev.com).
 
 Computing and new technologies have been my passion since I was a child, to which I have dedicated much of my life as a hobby, and now I have decided to take the step to dedicate myself to it professionally. 
@@ -33,7 +35,7 @@ Last years I have been working in other sectors and I have verified that what fu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
-
+## 📈 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonAngelit)](https://github.com/anuraghazra/github-readme-stats)
 
