@@ -35,6 +35,22 @@ Last years I have been working in other sectors and I have verified that what fu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
+## 👨‍🌾 Hobbies
+
+<li>📚 Continuous learning</li>
+<li>🎹 Music</li>
+<li>🏋️‍♂️Wellness, nutrition and exercise🍉</li>
+<li>🖥️Blockchain tech🧬</li>
+<li>🏯Oriental culture</li>
+
+<b>And of course... ANIME!!</b>
+
+<p align="center">
+<img height="250" style="margin:0 auto" src="https://media0.giphy.com/media/YbHnru6KfNiUGeNeCf/giphy.gif?cid=ecf05e47zs5gfx077sdi2ztd1md0hqtv6q7iw1b9e5brv0i5&rid=giphy.gif&ct=g">
+ </p>
+
+
+
 ## 📈 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonAngelit)](https://github.com/anuraghazra/github-readme-stats)
