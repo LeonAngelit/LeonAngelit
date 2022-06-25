@@ -53,10 +53,10 @@ Last years I have been working in other sectors and I have verified that what fu
 
 ## 📈 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonAngelit)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonAngelit&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAngelit&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAngelit&theme=dark)
  
 
 ## Connect with me:
